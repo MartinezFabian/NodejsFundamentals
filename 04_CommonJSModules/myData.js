@@ -25,4 +25,11 @@ module.exports = {
   userData: userData,
 };
 
+otra forma: module.exports.propiedad = valor
+
+  module.exports.myWebAddress = myWebAddress;
+  module.exports.myNumber = myNumber;
+  module.exports.myArray = myArray;
+  module.exports.userData = userData;
+
 */
